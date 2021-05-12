@@ -44,7 +44,7 @@ Improvement of multichain interaction environment
 Eco Marathon Developer Activities
 Bug Bounty Program
 Improvement of investment council model and TrustFi Vaults
-TrustFi DAO Support: Community Governance 
+TrustFi DAO Support: Community Governance
 
 Q4.2021
 On-board new blockchain ecosystems
